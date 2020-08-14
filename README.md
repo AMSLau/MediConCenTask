@@ -5,7 +5,11 @@ This is a project from the code task of MediConCen, consisting of two parts:
 server.js: Express for establishing connection and communication to server and client side.
 Other part : Frontend of the application layout.
 
-
+# Current stage
+1. Nodejs is completed as server.js which can establish communication from client request and server communication 
+  - tested by postman
+2 front end bug is still under fixing which could not fetch the request to server side.
+  
 
 1. Setting up git on terminal
   - Set up your account
